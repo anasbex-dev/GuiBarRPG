@@ -1,0 +1,9 @@
+# GuiBarRPG Config
+
+maxHealth: 20        # Max darah
+maxHunger: 20        # Max makan
+maxThirst: 20        # Max minum
+defaultMoney: 100    # Uang awal pemain
+hungerDecay: 1       # Turun per tick / detik
+thirstDecay: 1       # Turun per tick / detik
+updateInterval: 20   # Ticks untuk update bar (20 ticks = 1 detik)

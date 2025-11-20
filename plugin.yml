@@ -1,0 +1,13 @@
+name: GuiBarRPG
+main: GuiBarRPG\Main
+version: 1.0.0
+api: 5.0.0
+author: AnasBex
+commands:
+  guibar:
+    description: Open your RPG status GUI
+    usage: "/guibar"
+permissions:
+  guibar.use:
+    description: Allows the player to open the RPG GUI
+    default: true
